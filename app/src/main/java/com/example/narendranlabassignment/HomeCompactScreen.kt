@@ -163,7 +163,7 @@ fun CurrentLabSection(navigator: DestinationsNavigator){
         .padding(start = 15.dp, top = 15.dp, end = 15.dp, bottom = 180.dp)
         .fillMaxSize()
         .clip(RoundedCornerShape(20.dp))
-        .background(LightGreen1)
+        .background(AquaBlue)
     ){
         Column(
             horizontalAlignment = Alignment.Start,

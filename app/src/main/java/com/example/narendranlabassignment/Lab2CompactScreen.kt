@@ -109,7 +109,7 @@ fun PermissionStatus(){
                                 .padding(15.dp)
                                 .fillMaxWidth()
                                 .clip(RoundedCornerShape(20.dp))
-                                .background(LightGreen1), contentAlignment = Center
+                                .background(AquaBlue), contentAlignment = Center
                             ){
                                 Text(
                                     text = "CAMERA Permission is granted",
@@ -158,7 +158,7 @@ fun PermissionStatus(){
                                 .padding(15.dp)
                                 .fillMaxWidth()
                                 .clip(RoundedCornerShape(20.dp))
-                                .background(LightGreen1), contentAlignment = Center
+                                .background(AquaBlue), contentAlignment = Center
                             ) {
                                 Text(
                                     text = "LOCATION Permission is granted",
@@ -213,7 +213,7 @@ fun Activity(){
                 .padding(15.dp)
                 .fillMaxWidth()
                 .clip(RoundedCornerShape(20.dp))
-                .background(LightGreen1), contentAlignment = Center
+                .background(AquaBlue), contentAlignment = Center
         ) {
             Text(
                 text = "This page is Activity 2, Click on HOME button to go to the Activity 1",
@@ -233,7 +233,7 @@ fun MultipleScreenSize(){
                 .padding(15.dp)
                 .fillMaxWidth()
                 .clip(RoundedCornerShape(20.dp))
-                .background(LightGreen1), contentAlignment = Center
+                .background(AquaBlue), contentAlignment = Center
         ) {
             Text(
                 text = "Rotate your phone to landscape to view the App contents in Tablet or Landscape mode",

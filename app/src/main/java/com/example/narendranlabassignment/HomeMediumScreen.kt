@@ -71,7 +71,7 @@ fun CurrentLabSectionMedium(navigator: DestinationsNavigator){
         .padding(15.dp)
         .fillMaxWidth()
         .clip(RoundedCornerShape(20.dp))
-        .background(LightGreen1)
+        .background(AquaBlue)
     ){
         Column(
             horizontalAlignment = Alignment.Start,
